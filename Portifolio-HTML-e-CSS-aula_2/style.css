@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+.main{
+    display: flex;
+    align-items: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #FABA7A;
+}
+
+.destaque {
+    color: #7D80DA;
+}
+
+.apresentacao {
+       margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacaoconteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.apresentacaoconteudo_titulo {
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.apresentacaoconteudo_texto {
+
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.apresentacaolinks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apresentacaolinks_link {
+    background-color: #22D4FD;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+}
+.apresentacao_imagem {
+    height: 488px;
+    height: 550px;
+}
+.imagem {
+    width: 467.71px;
+    height: 532px;
+    top: 253px;
+    left: 1032px;
+    border-radius: 16px;
+}
+
+/*#html #css #javascript #github #react #alura #oraclenexteducation #mjv #udemy #origamid #b7web #tecnologia #trabalho #frontend #aprendinaalura #java #networking #carreira #infraspeak #keeggo
